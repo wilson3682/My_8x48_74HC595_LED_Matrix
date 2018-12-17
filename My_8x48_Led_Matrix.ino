@@ -17,7 +17,7 @@ int x;
 int y;
 char r_char;
 
-char msg[] =" *** Gracias DIOS Por TODO!  ***  Thanks GOD For EVERYTHING! ***  ";//Change the text here.
+char msg[] =" *** Happy Valentines day! 2018 ***  ";//Change the text here.
 //char msg[] =" *** Happy Valentines day! 2018 ***      ";
 //char msg[] =" 12:50 am ";//Change the text here.
 
