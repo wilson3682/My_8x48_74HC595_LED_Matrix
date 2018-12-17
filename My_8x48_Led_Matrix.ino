@@ -1,4 +1,6 @@
-  //Font Creator Website http://tinkering-arduino.de/blog/2014/03/24/font-generator-fur-das-8x8-led-matrix-display/
+//Font Creator Website http://tinkering-arduino.de/blog/2014/03/24/font-generator-fur-das-8x8-led-matrix-display/
+// Idea taken from https://www.instructables.com/id/48-X-8-Scrolling-LED-Matrix-Using-Arduino/
+// My video: https://youtu.be/XGMwcXwL8JE
 
 //More Fonts and Bluetooth
 /*////////////////////////////////////////////////////////////////////////////////
